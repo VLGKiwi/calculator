@@ -40,6 +40,8 @@
 	font-size: 1.5em;
 	font-weight: bold;
 	text-align: right;
+
+	pointer-events: none;
 }
 
 .display-input:focus {
